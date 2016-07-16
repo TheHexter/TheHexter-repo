@@ -7,3 +7,4 @@ Changes with feature branch
 =======
 Changes
 >>>>>>> master
+SomeTextFeature
