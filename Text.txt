@@ -1,9 +1,9 @@
-SomeText
-SomeNewText
-SomeFukinNewText
-WhereIsOutGoing?
-<<<<<<< HEAD
-Changes with feature branch
-=======
-Changes
->>>>>>> master
+SomeText;
+SomeNewText;
+SomeFukinNewText;
+WhereIsOutGoing?;
+<<<<<<< HEAD;
+Changes with feature branch;
+=======;
+Changes;
+>>>>>>> master;
